@@ -1,0 +1,1 @@
+Eine stark kommentierte Implementation der Huffman-Entropie-Kodierung im Rahmen einer Hausarbeit.
